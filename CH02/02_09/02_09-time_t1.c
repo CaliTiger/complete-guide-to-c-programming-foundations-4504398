@@ -8,5 +8,5 @@ int main()
 	time(&now);
 	printf("%s",ctime(&now));
 
-	return(0);
+	return 0;
 }

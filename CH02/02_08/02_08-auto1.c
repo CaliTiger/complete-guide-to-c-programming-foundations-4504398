@@ -2,7 +2,7 @@
 
 void sum(void)
 {
-	auto int a,b;
+	int a,b;
 
 	a = 91; b = 7;
 	printf("%d + %d = %d\n",a,b,a+b);

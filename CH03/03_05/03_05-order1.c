@@ -2,10 +2,13 @@
 
 int main()
 {
-	int a;
+	int a, b;
 
 	a = 6 / 2 * (1 + 2);
-	printf("The people who said %d are correct.\n",a);
+	b = 6 / 2;
+	printf("The people who said %d are correct.\n", a);
+	printf("GG %d \n",b);
+	printf("hh %d \n", b * 3);
 
-	return(0);
+	return (0);
 }

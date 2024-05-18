@@ -4,7 +4,7 @@
    code for the sin() function. The code lies in the
    math library file */
 #include <math.h>
-
+// commet
 int main()
 {
 	int w;

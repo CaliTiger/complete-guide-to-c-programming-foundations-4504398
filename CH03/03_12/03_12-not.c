@@ -4,12 +4,12 @@ int main()
 {
 	int a;
 
-	for(a=0;a<20;a++)
+	for (a = 0; a < 20; a++)
 	{
-		if( a<10 )
+		if (!(a < 10))
 			putchar('*');
-		printf("%d\n",a);
+		printf("%d\n", a);
 	}
 
-	return(0);
+	return (0);
 }

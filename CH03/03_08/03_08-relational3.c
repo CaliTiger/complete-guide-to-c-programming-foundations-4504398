@@ -8,7 +8,7 @@ int main()
 	{
 		puts("Good day to you!");
 		a++;
-		if( a == 10 )
+		if( a == 3 )
 			break;
 	}
 

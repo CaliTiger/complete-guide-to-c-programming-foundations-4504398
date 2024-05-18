@@ -6,7 +6,7 @@ int main()
 
 	printf("Type a positive value: ");
 	scanf("%d",&b);
-	for( a=0 ; a<b ; a++ )
+	for( a=-10 ; a<b ; a++ )
 		printf("Countdown: %d\n",b-a);
 
 	return(0);

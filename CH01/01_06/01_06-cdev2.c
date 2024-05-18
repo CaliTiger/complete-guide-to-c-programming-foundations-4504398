@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("I bet you can ")
-	prinft("find the error!\n");
+	printf("I bet you can ");
+	printf("find the error!\n");
 	return 0;
 }

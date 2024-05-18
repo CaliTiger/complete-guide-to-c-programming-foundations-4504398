@@ -6,3 +6,4 @@ int main()
 
 	puts(string);
 }
+puts(string);

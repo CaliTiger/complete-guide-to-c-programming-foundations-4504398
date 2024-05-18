@@ -4,11 +4,10 @@ int main()
 {
 	int a;
 
-	for( a = 0 ; a < 10 ; a++ )
+	for (a = 0; a < 10; a++)
 	{
 		puts("I must do this 10 times");
 	}
 
-	return(0);
+	return (0);
 }
-

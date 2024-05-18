@@ -4,7 +4,7 @@
 
 int main()
 {
-	charout('H');
+	charout('Hao');
 	charout('i');
 	charout('!');
 	charout('\n');
